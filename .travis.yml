@@ -1,0 +1,21 @@
+dist: trusty
+sudo: true
+language: shell
+
+before_script: 
+  - curl https://raw.githubusercontent.com/mike42/mdcheckr/master/mdcheckr -o mdcheckr
+  - chmod +x mdcheckr
+  - sudo cp mdcheckr /usr/local/bin
+  
+addons:
+  apt:
+    packages:
+      - pandoc
+      - libxml2-utils
+      - devscripts
+      - build-essential
+      - lintian
+      - debhelper
+
+script:
+  - mdcheckr README.md
