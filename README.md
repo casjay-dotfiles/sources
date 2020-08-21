@@ -35,6 +35,7 @@ https://github.com/cousine/dotfiles
 https://github.com/ipatch/dotfiles  
 https://github.com/crian/dotfiles 
 https://github.com/nicknisi/dotfiles  
+https://github.com/daniruiz/dotfiles  
   
 https://gist.github.com/insin/1425703  
 https://gist.github.com/joaopizani/2718397  
