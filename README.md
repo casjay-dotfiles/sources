@@ -5,7 +5,6 @@
   
 Source URLs - Resources   
 https://gitlab.com/dwt1/dotfiles  
-https://bitbucket.org/sjl/dotfiles  
 https://github.com/gpakosz/.tmux  
 https://github.com/flux242/dotfiles  
 https://github.com/Olical/dotfiles  
