@@ -4,6 +4,7 @@
 ---A list of places i have used for my configurations---  
   
 Source URLs - Resources   
+https://github.com/christoomey/dotfiles  
 https://github.com/chrishunt/dot-files  
 https://gitlab.com/dwt1/dotfiles  
 https://github.com/gpakosz/.tmux  
