@@ -34,7 +34,7 @@ https://github.com/Chinggis6/TengeridHome
 https://github.com/naggie/dotfiles  
 https://github.com/cousine/dotfiles  
 https://github.com/ipatch/dotfiles  
-https://github.com/crian/dotfiles 
+https://github.com/crian/dotfiles  
 https://github.com/nicknisi/dotfiles  
 https://github.com/daniruiz/dotfiles  
 https://github.com/shapeshed/dotfiles  
